@@ -1,0 +1,22 @@
+{
+  "name": "@lulzseq/ajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lulzseq/ajs.git"
+  },
+  "keywords": [
+    "netology"
+  ],
+  "author": "lulzseq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lulzseq/ajs/issues"
+  },
+  "homepage": "https://github.com/lulzseq/ajs#readme"
+}
